@@ -14,3 +14,37 @@
 
 ## Wanna give me some appreciations? Yes please :D
 - 💸 [Saweria](https://saweria.co/adhywiranto44)
+
+<br>
+
+<table>
+   <td width="40%" valign="top">
+    <h3 align="center"> GitHub Status<h3>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AdhyWiranto44&theme=algolia&column=7&no-frame=true" />
+    </p>
+   </td>
+   <td width="40%" valign="top">
+    <h3 align="center"> Most used languages</h3>
+     <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhyWiranto44&theme=outrun&column=7&no-frame=true"/>
+     </p>
+  </td>
+</table>
+<table align="center">
+   <td width="40%" valign="top">
+     <h3 align="center">GitHub Trophy</h3>
+     <p align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=AdhyWiranto44&theme=solarized-dark&column=7&no-frame=true">
+     </p>
+   </td>
+ </table>
+<table align="center">
+<table align="center">
+  <td width="40%" valign="top">
+    <h3 align="center">Discord</h3>
+    <p align="center">
+      <img src="https://discord.c99.nl/widget/theme-1/809244553768861706.png"/>
+    </p>
+  </td>
+</table>
