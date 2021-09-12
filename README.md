@@ -1,11 +1,11 @@
 ### Welcome my Friend 👋😊
 
 ## My name is Adhy Wiranto, you can call me Adhy (pronouns: a di), an Informatics Engineering Student, a Full Stack Web Developer, and I want to be a Software Engineer 😎
-- 🔭 I’m currently working on react-open-blog, an Open Source Blogging Management System, On Development by myself.
-- 🌱 I’m currently learning Javascript Algorithm & Data Structure in https://www.freecodecamp.org/ and Javascript: The Advanced Concepts by Andrei Neagoie at [Udemy](https://www.udemy.com/course/advanced-javascript-concepts/)
+- 🔭 I’m currently working on ting-tong-shop from my client's request.
+- 🌱 I’m currently learning Machine Learning A-Z™: Hands-On Python & R In Data Science by Kirill Eremenko, et al. at [Udemy](https://www.udemy.com/course/machinelearning/)
 - 👯 I’m looking to collaborate with another developer
 - 💬 Ask me about Javascript Programming and Backend Development
-- ⚡ Fun fact: I Like Math and Artificial Intelligence and I draw semi realistic (more like a line art)
+- ⚡ Fun fact: I Like Math and Artificial Intelligence
 
 ## 📫 How to reach me
 - 👩‍💻 [LinkedIn](https://www.linkedin.com/in/adhy-wiranto-665882155/)
