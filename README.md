@@ -3,8 +3,8 @@
 ## My name is Adhy Wiranto, you can call me Adhy (pronouns: a di), an Informatics Engineering Student, a Full Stack Web Developer, and I want to be a Software Engineer 😎
 - 🔭 I’m currently working on ting-tong-shop from my client's request.
 - 🌱 I’m currently learning 100 Days of Code - The Complete Python Pro Bootcamp for 2021 by Dr. Angela Yu at [Udemy](https://www.udemy.com/course/100-days-of-code/)
-- 👯 I’m looking to collaborate with another developer
-- 💬 Ask me about Javascript Programming and Backend Development
+- 👯 I’m member of [Bellshade](https://github.com/bellshade) as maintainer
+- 💬 Ask me about Javascript, PHP, Python, or Other Programming Topics
 - ⚡ Fun fact: I Like Math and Artificial Intelligence
 
 ## 📫 How to reach me
