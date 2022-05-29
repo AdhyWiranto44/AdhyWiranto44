@@ -2,10 +2,11 @@
 
 ## My name is Adhy Wiranto, you can call me Adhy (pronouns: a di), an Informatics Engineering Student, a Full Stack Web Developer, and I want to be a Software Engineer 😎
 - 🔭 I’m currently working on my own project called Moneytory, a product stock and money management. [Website Link](https://moneytory.000webhostapp.com/)
+- - 🔭 I’m currently working on my own project called Find My Hobby, website for finding your new hobby. [Website Link](https://findmyhobby.vercel.app/)
 - 🌱 I’m currently learning some basic programming topics such as Asynchronous and SDLC.
 - 👯 I’m member of [Bellshade](https://github.com/bellshade) as maintainer.
 - 💬 Ask me about Javascript, Node.js, Java, PHP, Python, MySQL or Other Programming Topics.
-- ⚡ Fun fact: I Like KPOP Group TWICE.
+- ⚡ Fun fact: I Like KPOP Group TWICE and NMIXX.
 
 ## 📫 How to reach me
 - 👩‍💻 [LinkedIn](https://www.linkedin.com/in/adhy-wiranto-665882155/)
