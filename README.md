@@ -4,7 +4,7 @@
 - 🌱 I’m looking for jobs.
 - 🌱 I’m currently learning other technology like making Android Apps or something.
 - 💬 Ask me about Javascript, Node.js, Java, PHP, Python, MySQL or Other Programming Topics.
-- ⚡ Fun fact: I Like KPOP Group TWICE and NMIXX.
+- ⚡ Fun fact: I play Genshin Impact
 
 ## 📫 How to reach me
 - 👩‍💻 [LinkedIn](https://www.linkedin.com/in/adhy-wiranto-sudjana-s-t-665882155/)
