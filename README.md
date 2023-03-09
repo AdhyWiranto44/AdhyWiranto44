@@ -1,9 +1,6 @@
 ### Welcome my Friend 👋😊
 
 ## My name is Adhy Wiranto, you can call me Adhy (pronouns: adi), an Informatics Engineering Fresh Graduated, a Full Stack Web Developer, and I want to be a Software Engineer 😎
-- 🌱 I’m looking for jobs.
-- 🌱 I’m currently learning other technology like making Android Apps or something.
-- 💬 Ask me about Javascript, Node.js, Java, PHP, Python, MySQL or Other Programming Topics.
 - ⚡ Fun fact: I play Genshin Impact
 
 ## 📫 How to reach me
