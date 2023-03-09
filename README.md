@@ -1,6 +1,6 @@
 ### Welcome my Friend 👋😊
 
-## My name is Adhy Wiranto, you can call me Adhy (pronouns: adi), an Informatics Engineering Fresh Graduated, a Full Stack Web Developer, and I want to be a Software Engineer 😎
+## My name is Adhy Wiranto, you can call me Adhy (pronouns: adi), a Frontend Web Developer at Cloud Solution Company in based on Singapore 😎
 - ⚡ Fun fact: I play Genshin Impact
 
 ## 📫 How to reach me
