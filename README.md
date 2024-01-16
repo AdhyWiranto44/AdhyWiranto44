@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I play Genshin Impact & Honkai: Star Rail
 
 ## 📫 How to reach me
-- 👩‍💻 [LinkedIn]([https://www.linkedin.com/in/adhy-wiranto-sudjana-s-t-665882155/](https://www.linkedin.com/in/adhy-wiranto-sudjana-665882155/))
+- 👩‍💻 [LinkedIn](https://www.linkedin.com/in/adhy-wiranto-sudjana-665882155/)
 - 📷 [Instagram](https://www.instagram.com/adhywiranto44/)
 
 <br>
