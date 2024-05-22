@@ -1,7 +1,6 @@
 ### Welcome my Friend 👋😊
 
-## My name is Adhy Wiranto, you can call me Adhy (pronouns: adi), a Frontend Web Developer at Cloud Solution Company in based on Singapore 😎
-- ⚡ Fun fact: I play Genshin Impact & Honkai: Star Rail
+## My name is Adhy Wiranto, you can call me Adhy (pronouns: adi), a Frontend Web Developer at Cloud Solution Company based on Singapore 😎
 
 ## 📫 How to reach me
 - 👩‍💻 [LinkedIn](https://www.linkedin.com/in/adhy-wiranto-sudjana-665882155/)
